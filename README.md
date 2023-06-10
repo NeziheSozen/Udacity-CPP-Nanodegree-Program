@@ -19,4 +19,5 @@ The third project of the Udacity C++ Nanodegree involves building a memory manag
 
 The fourth project in the Udacity C++ Nanodegree program involves building a concurrent traffic simulation application. The project focuses on implementing multithreading techniques in C++ to create a traffic simulation with multiple vehicles and traffic lights that operate concurrently. The summary of the project includes designing and implementing a traffic simulation system using object-oriented programming principles, utilizing concurrent programming techniques such as mutexes and condition variables to manage shared resources, and creating a graphical user interface to visualize the simulation. The project provides hands-on experience in developing concurrent applications in C++ and reinforces concepts related to multithreading, synchronization, and object-oriented programming.
 
+![Certificate ](image_2023-06-10_191502559.png)
 
